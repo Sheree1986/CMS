@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Avenger assigned to?">86339f9b97073510e9d43f56f053afe4</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Ayronada</sys_created_by>
+        <sys_created_on>2023-12-17 05:14:11</sys_created_on>
+        <sys_id>b8a4571f97073510e9d43f56f053af44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Ayronada</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:14:11</sys_updated_on>
+        <text>Thor Odinson - Thor</text>
+        <value>thor</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b8a4571f97073510e9d43f56f053af44"/>
+</record_update>
