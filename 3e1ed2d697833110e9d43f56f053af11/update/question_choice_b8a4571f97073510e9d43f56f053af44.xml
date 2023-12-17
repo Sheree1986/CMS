@@ -6,16 +6,16 @@
         <question display_value="Avenger assigned to?">86339f9b97073510e9d43f56f053afe4</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Ayronada</sys_created_by>
-        <sys_created_on>2023-12-17 05:14:11</sys_created_on>
+        <sys_created_on>2023-12-17 05:50:57</sys_created_on>
         <sys_id>b8a4571f97073510e9d43f56f053af44</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Thor Odinson - Thor</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>Ayronada</sys_updated_by>
-        <sys_updated_on>2023-12-17 05:14:11</sys_updated_on>
+        <sys_update_name>question_choice_b8a4571f97073510e9d43f56f053af44</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:53:28</sys_updated_on>
         <text>Thor Odinson - Thor</text>
         <value>thor</value>
     </question_choice>
