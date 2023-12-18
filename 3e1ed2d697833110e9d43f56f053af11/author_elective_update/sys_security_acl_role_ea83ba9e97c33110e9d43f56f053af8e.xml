@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-14 00:15:38</sys_created_on>
+        <sys_id>ea83ba9e97c33110e9d43f56f053af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1152869_threat_0.user</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_ea83ba9e97c33110e9d43f56f053af8e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:15:38</sys_updated_on>
+        <sys_user_role display_value="x_1152869_threat_0.user" name="x_1152869_threat_0.user">f61ed2d697833110e9d43f56f053af2a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</application>
+        <file_path/>
+        <instance_id>5f486126db5ad99007072f17d49619f1</instance_id>
+        <instance_name>dev139317</instance_name>
+        <name>sys_security_acl_role_ea83ba9e97c33110e9d43f56f053af8e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-12-14 00:15:38</sys_created_on><sys_id>ea83ba9e97c33110e9d43f56f053af8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1152869_threat_0.user</sys_name><sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package><sys_policy/><sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope><sys_security_acl/><sys_update_name>sys_security_acl_role_ea83ba9e97c33110e9d43f56f053af8e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-14 00:15:38</sys_updated_on><sys_user_role display_value="x_1152869_threat_0.user" name="x_1152869_threat_0.user">f61ed2d697833110e9d43f56f053af2a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1647859600</payload_hash>
+        <record_name>.x_1152869_threat_0.user</record_name>
+        <reverted_from/>
+        <source>b21ed2d697833110e9d43f56f053af20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-14 00:15:38</sys_created_on>
+        <sys_id>2e83ba9e97c33110e9d43f56f053af90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c65adcf510000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:15:38</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6283ba9ecec331102f95ddd5ae357490</update_guid>
+        <update_guid_history>6283ba9ecec331102f95ddd5ae357490:-1647859600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1152869_threat_0.user">92d8f61697073110e9d43f56f053af63</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-14 00:38:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>378d654cff35461092d22be484a18899</sys_id>
+        <sys_metadata>ea83ba9e97c33110e9d43f56f053af8e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1152869_threat_0.user</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_scope_delete display_value="">01d73dac97f048c784652bc3fb20b5b1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ea83ba9e97c33110e9d43f56f053af8e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ea83ba9e97c33110e9d43f56f053af8e">2e83ba9e97c33110e9d43f56f053af90</sys_update_version>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:38:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

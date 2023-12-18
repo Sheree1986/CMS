@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="41316a9a97833110e9d43f56f053afe4" extends="task" label="Crime_Threat" max_length="40" name="x_1152869_threat_0_crime_threat" type="collection">
+        <element label="Caller" mandatory="true" max_length="40" name="caller" reference="sys_user" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Alpha level Threats" sequence="0" value="alpha level threats"/>
+                <element inactive_on_update="false" label="Extinction Level Threats" sequence="1" value="extinction level threats"/>
+                <element inactive_on_update="false" label="Beta Level Threats" sequence="2" value="beta level threats"/>
+                <element inactive_on_update="false" label="Code Red Level Threats" sequence="3" value="code red level threats"/>
+                <element inactive_on_update="false" label="Gamma Level Threats" sequence="4" value="gamma level threats"/>
+                <element inactive_on_update="false" label="Threat Level Maximum" sequence="5" value="threat level maximum"/>
+            </choice>
+        </element>
+        <element label="Event Date" max_length="40" name="event_date" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Time" max_length="40" name="time" type="glide_time"/>
+        <element attributes="encode_utf8=false" label="Reporter" mandatory="true" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
+    </element>
+</database>

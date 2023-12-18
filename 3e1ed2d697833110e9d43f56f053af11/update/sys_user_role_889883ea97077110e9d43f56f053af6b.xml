@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1152869_threat_0.AvengersList</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>AvengersList</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-14 20:26:53</sys_created_on>
+        <sys_id>889883ea97077110e9d43f56f053af6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152869_threat_0.AvengersList</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sys_user_role_889883ea97077110e9d43f56f053af6b</sys_update_name>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-14 20:26:53</sys_updated_on>
+    </sys_user_role>
+</record_update>

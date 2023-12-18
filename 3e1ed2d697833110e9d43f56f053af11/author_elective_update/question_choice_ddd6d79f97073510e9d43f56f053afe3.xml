@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Crime Location">cdeb84c7970bb110e9d43f56f053afce</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Ayronada</sys_created_by>
+        <sys_created_on>2023-12-17 05:23:45</sys_created_on>
+        <sys_id>ddd6d79f97073510e9d43f56f053afe3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>North America</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>question_choice_ddd6d79f97073510e9d43f56f053afe3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:28:38</sys_updated_on>
+        <text>North America</text>
+        <value>north_america</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=ddd6d79f97073510e9d43f56f053afe3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</application>
+        <file_path/>
+        <instance_id>5f486126db5ad99007072f17d49619f1</instance_id>
+        <instance_name>dev139317</instance_name>
+        <name>question_choice_ddd6d79f97073510e9d43f56f053afe3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Crime Location">cdeb84c7970bb110e9d43f56f053afce</question><sys_class_name>question_choice</sys_class_name><sys_created_by>Ayronada</sys_created_by><sys_created_on>2023-12-17 05:23:45</sys_created_on><sys_id>ddd6d79f97073510e9d43f56f053afe3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>North America</sys_name><sys_package/><sys_policy/><sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope><sys_update_name>question_choice_ddd6d79f97073510e9d43f56f053afe3</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-17 05:28:38</sys_updated_on><text>North America</text><value>north_america</value></question_choice><fx_price action="delete_multiple" query="id=ddd6d79f97073510e9d43f56f053afe3"/></record_update>]]></payload>
+        <payload_hash>-1730942757</payload_hash>
+        <record_name>North America</record_name>
+        <reverted_from/>
+        <source>d4f75bdf97073510e9d43f56f053afc8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-17 05:28:38</sys_created_on>
+        <sys_id>e0f7dbdf97073510e9d43f56f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c763f70ba0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:28:38</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>28f7dbdf890735102e6061ec21bd3418</update_guid>
+        <update_guid_history>28f7dbdf890735102e6061ec21bd3418:-1730942757,e4f7dbdf02073510d19b0507bd0c8816:-762927552</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="North America">c4abea2397837510e9d43f56f053af84</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Agent2</sys_created_by>
+        <sys_created_on>2023-12-17 20:53:28</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>2a502de1083144299805a8da9ea99329</sys_id>
+        <sys_metadata>ddd6d79f97073510e9d43f56f053afe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>North America</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_parent display_value="Crime Location">cdeb84c7970bb110e9d43f56f053afce</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_scope_delete display_value="">01d73dac97f048c784652bc3fb20b5b1</sys_scope_delete>
+        <sys_update_name>question_choice_ddd6d79f97073510e9d43f56f053afe3</sys_update_name>
+        <sys_update_version display_value="question_choice_ddd6d79f97073510e9d43f56f053afe3">e0f7dbdf97073510e9d43f56f053af19</sys_update_version>
+        <sys_updated_by>Agent2</sys_updated_by>
+        <sys_updated_on>2023-12-17 20:53:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

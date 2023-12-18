@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Super Admin</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1152869_threat_0.nick_fury</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>nick_fury</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-13 22:42:00</sys_created_on>
+        <sys_id>721ed2d697833110e9d43f56f053af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152869_threat_0.nick_fury</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sys_user_role_721ed2d697833110e9d43f56f053af24</sys_update_name>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-13 22:42:00</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</application>
+        <file_path/>
+        <instance_id>5f486126db5ad99007072f17d49619f1</instance_id>
+        <instance_name>dev139317</instance_name>
+        <name>sys_user_role_721ed2d697833110e9d43f56f053af24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Super Admin</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1152869_threat_0.nick_fury</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>nick_fury</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>Sheree</sys_created_by><sys_created_on>2023-12-13 22:42:00</sys_created_on><sys_id>721ed2d697833110e9d43f56f053af24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1152869_threat_0.nick_fury</sys_name><sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package><sys_policy/><sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope><sys_update_name>sys_user_role_721ed2d697833110e9d43f56f053af24</sys_update_name><sys_updated_by>Sheree</sys_updated_by><sys_updated_on>2023-12-13 22:42:00</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-965938595</payload_hash>
+        <record_name>x_1152869_threat_0.nick_fury</record_name>
+        <reverted_from/>
+        <source>b21ed2d697833110e9d43f56f053af20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-13 22:42:00</sys_created_on>
+        <sys_id>fe1ed2d697833110e9d43f56f053af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c655815ce0000001</sys_recorded_at>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-13 22:42:00</sys_updated_on>
+        <type>Role</type>
+        <update_guid>361ed2d6f18331101134274ac8acd526</update_guid>
+        <update_guid_history>361ed2d6f18331101134274ac8acd526:-965938595</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1152869_threat_0.nick_fury">f0c8f21697073110e9d43f56f053afd6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-14 00:38:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>b0dcc1192ea54ff68e7c6e21eb1ea019</sys_id>
+        <sys_metadata>721ed2d697833110e9d43f56f053af24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152869_threat_0.nick_fury</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_scope_delete display_value="">01d73dac97f048c784652bc3fb20b5b1</sys_scope_delete>
+        <sys_update_name>sys_user_role_721ed2d697833110e9d43f56f053af24</sys_update_name>
+        <sys_update_version display_value="sys_user_role_721ed2d697833110e9d43f56f053af24">fe1ed2d697833110e9d43f56f053af26</sys_update_version>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:38:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

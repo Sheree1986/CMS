@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FDa3312a9a17833110ffe9842efbca75b4</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>3e1ed2d697833110e9d43f56f053af11</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FDa3312a9a17833110ffe9842efbca75b4":{"u_assigned_to":"String","u_assigned_to.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Assigned To \",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_category":"String","u_category.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Category\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_priority":"String","u_priority.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Priority\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_short_description":"String","u_short_description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Short Description\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_caller":"String","u_caller.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Caller\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_state":"String","u_state.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"State\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_impact":"String","u_impact.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Impact\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_urgency":"String","u_urgency.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Urgency\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FDa3312a9a17833110ffe9842efbca75b4.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FDa3312a9a17833110ffe9842efbca75b4\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-13 22:55:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67312a9a97833110e9d43f56f053afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FDa3312a9a17833110ffe9842efbca75b4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sys_complex_object_67312a9a97833110e9d43f56f053afb4</sys_update_name>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-13 22:55:42</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

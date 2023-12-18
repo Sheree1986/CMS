@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">2ae6b4437dcbb11061700d203cba0b64</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">aae6b443bbcbb1108ac5dcd97b48b25f</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-15 23:06:36</sys_created_on>
+        <sys_id>aee6b4436ecbb110500bc7627f3a6c5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_aee6b4436ecbb110500bc7627f3a6c5e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-15 23:06:36</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

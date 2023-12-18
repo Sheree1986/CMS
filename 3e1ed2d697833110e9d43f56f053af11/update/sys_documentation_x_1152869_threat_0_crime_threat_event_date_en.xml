@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="event_date" label="Event Date" language="en" table="x_1152869_threat_0_crime_threat">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>event_date</element>
+            <help/>
+            <hint/>
+            <label>Event Date</label>
+            <language>en</language>
+            <name>x_1152869_threat_0_crime_threat</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Ayronada</sys_created_by>
+            <sys_created_on>2023-12-17 04:16:50</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Event Date</sys_name>
+            <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+            <sys_update_name>sys_documentation_x_1152869_threat_0_crime_threat_event_date_en</sys_update_name>
+            <sys_updated_by>Ayronada</sys_updated_by>
+            <sys_updated_on>2023-12-17 04:16:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
