@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-15 23:06:42</sys_created_on>
+        <sys_id>58f6384397cbb110e9d43f56f053afec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1152869_threat_0.AvengersList</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_58f6384397cbb110e9d43f56f053afec</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-15 23:06:42</sys_updated_on>
+        <sys_user_role display_value="x_1152869_threat_0.AvengersList" name="x_1152869_threat_0.AvengersList">889883ea97077110e9d43f56f053af6b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

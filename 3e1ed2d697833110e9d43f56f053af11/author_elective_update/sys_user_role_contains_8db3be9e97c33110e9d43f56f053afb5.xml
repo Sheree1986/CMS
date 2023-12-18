@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1152869_threat_0.nick_fury" name="x_1152869_threat_0.nick_fury">721ed2d697833110e9d43f56f053af24</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-14 00:16:22</sys_created_on>
+        <sys_id>8db3be9e97c33110e9d43f56f053afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1152869_threat_0.nick_fury</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sys_user_role_contains_8db3be9e97c33110e9d43f56f053afb5</sys_update_name>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:16:22</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</application>
+        <file_path/>
+        <instance_id>5f486126db5ad99007072f17d49619f1</instance_id>
+        <instance_name>dev139317</instance_name>
+        <name>sys_user_role_contains_8db3be9e97c33110e9d43f56f053afb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains><role display_value="x_1152869_threat_0.nick_fury" name="x_1152869_threat_0.nick_fury">721ed2d697833110e9d43f56f053af24</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>Sheree</sys_created_by><sys_created_on>2023-12-14 00:16:22</sys_created_on><sys_id>8db3be9e97c33110e9d43f56f053afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>canvas_user.x_1152869_threat_0.nick_fury</sys_name><sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package><sys_policy/><sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope><sys_update_name>sys_user_role_contains_8db3be9e97c33110e9d43f56f053afb5</sys_update_name><sys_updated_by>Sheree</sys_updated_by><sys_updated_on>2023-12-14 00:16:22</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-483826343</payload_hash>
+        <record_name>canvas_user.x_1152869_threat_0.nick_fury</record_name>
+        <reverted_from/>
+        <source>b21ed2d697833110e9d43f56f053af20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-14 00:16:22</sys_created_on>
+        <sys_id>01b3be9e97c33110e9d43f56f053afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c65ae78770000001</sys_recorded_at>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:16:22</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>45b3be9e81c33110324c208a641933b9</update_guid>
+        <update_guid_history>45b3be9e81c33110324c208a641933b9:-483826343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-14 00:38:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>125307bb04344211864fa43a88ad01d1</sys_id>
+        <sys_metadata>8db3be9e97c33110e9d43f56f053afb5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1152869_threat_0.nick_fury</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_scope_delete display_value="">01d73dac97f048c784652bc3fb20b5b1</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_8db3be9e97c33110e9d43f56f053afb5</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_8db3be9e97c33110e9d43f56f053afb5">01b3be9e97c33110e9d43f56f053afba</sys_update_version>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:38:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

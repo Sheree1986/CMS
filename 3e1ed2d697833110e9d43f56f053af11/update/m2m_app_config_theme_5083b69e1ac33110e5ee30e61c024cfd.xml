@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">9c83b69e19c33110f432ab801b487afc</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-14 00:15:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5083b69e1ac33110e5ee30e61c024cfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>m2m_app_config_theme_5083b69e1ac33110e5ee30e61c024cfd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:15:31</sys_updated_on>
+        <theme display_value="Light Theme">d483b69eb3c3311047b490991a01b7fd</theme>
+        <ux_app_configuration display_value="Threat Alert App Config">1083b69e97c33110e9d43f56f053afa7</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

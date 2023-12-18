@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Approve">9483b69ec3c331107dc63aae68c03afb</action_payload_definition>
+        <label>Approve Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-14 00:15:32</sys_created_on>
+        <sys_id>1483b69e6ec331103d3e71855765f5fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve Evam</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_1483b69e6ec331103d3e71855765f5fa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:15:32</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

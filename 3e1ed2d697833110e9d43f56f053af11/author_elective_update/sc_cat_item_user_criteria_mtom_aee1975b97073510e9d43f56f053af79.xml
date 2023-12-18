@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Avenger Crime Report">1ef48043970bb110e9d43f56f053afd7</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>Ayronada</sys_created_by>
+        <sys_created_on>2023-12-17 05:02:17</sys_created_on>
+        <sys_id>aee1975b97073510e9d43f56f053af79</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Avenger Crime Report.Any User</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_aee1975b97073510e9d43f56f053af79</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:03:46</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</application>
+        <file_path/>
+        <instance_id>5f486126db5ad99007072f17d49619f1</instance_id>
+        <instance_name>dev139317</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_aee1975b97073510e9d43f56f053af79</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Avenger Crime Report">1ef48043970bb110e9d43f56f053afd7</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>Ayronada</sys_created_by><sys_created_on>2023-12-17 05:02:17</sys_created_on><sys_id>aee1975b97073510e9d43f56f053af79</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Avenger Crime Report.Any User</sys_name><sys_package/><sys_policy/><sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_aee1975b97073510e9d43f56f053af79</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-17 05:03:46</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-66105728</payload_hash>
+        <record_name>Avenger Crime Report.Any User</record_name>
+        <reverted_from/>
+        <source>98429f5b97073510e9d43f56f053afb5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-17 05:03:46</sys_created_on>
+        <sys_id>1c42df5b97073510e9d43f56f053af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c7628ad430000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:03:46</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>5042df5bc1073510801cdd523d7fb912</update_guid>
+        <update_guid_history>5042df5bc1073510801cdd523d7fb912:-66105728,d842df5baf0735103022a8fe684cf80f:466851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Avenger Crime Report.Any User">d8f79bdf97073510e9d43f56f053afa6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-17 05:28:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>59429b7904154fae98136b6351b07a04</sys_id>
+        <sys_metadata>aee1975b97073510e9d43f56f053af79</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Avenger Crime Report.Any User</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_scope_delete display_value="">01d73dac97f048c784652bc3fb20b5b1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_aee1975b97073510e9d43f56f053af79</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_aee1975b97073510e9d43f56f053af79">1c42df5b97073510e9d43f56f053af12</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:28:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

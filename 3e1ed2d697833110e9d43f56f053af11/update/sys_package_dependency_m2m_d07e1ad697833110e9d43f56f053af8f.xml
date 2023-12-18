@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">9a5a170bb4232110320f8dc279c804ea</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Sheree</sys_created_by>
+        <sys_created_on>2023-12-13 22:43:28</sys_created_on>
+        <sys_id>d07e1ad697833110e9d43f56f053af8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_updated_by>Sheree</sys_updated_by>
+        <sys_updated_on>2023-12-13 22:43:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

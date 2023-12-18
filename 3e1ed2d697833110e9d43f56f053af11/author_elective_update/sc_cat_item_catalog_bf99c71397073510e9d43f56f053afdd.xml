@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Crime Report">229c76d397c33510e9d43f56f053af7f</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>Agent1</sys_created_by>
+        <sys_created_on>2023-12-17 04:26:03</sys_created_on>
+        <sys_id>bf99c71397073510e9d43f56f053afdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Crime Report</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_bf99c71397073510e9d43f56f053afdd</sys_update_name>
+        <sys_updated_by>Agent1</sys_updated_by>
+        <sys_updated_on>2023-12-17 04:26:03</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</application>
+        <file_path/>
+        <instance_id>5f486126db5ad99007072f17d49619f1</instance_id>
+        <instance_name>dev139317</instance_name>
+        <name>sc_cat_item_catalog_bf99c71397073510e9d43f56f053afdd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Crime Report">229c76d397c33510e9d43f56f053af7f</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>Agent1</sys_created_by><sys_created_on>2023-12-17 04:26:03</sys_created_on><sys_id>bf99c71397073510e9d43f56f053afdd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Crime Report</sys_name><sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package><sys_policy/><sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope><sys_update_name>sc_cat_item_catalog_bf99c71397073510e9d43f56f053afdd</sys_update_name><sys_updated_by>Agent1</sys_updated_by><sys_updated_on>2023-12-17 04:26:03</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1436338196</payload_hash>
+        <record_name>Service Catalog.Crime Report</record_name>
+        <reverted_from/>
+        <source>b21ed2d697833110e9d43f56f053af20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Agent1</sys_created_by>
+        <sys_created_on>2023-12-17 04:26:03</sys_created_on>
+        <sys_id>fb99c71397073510e9d43f56f053afe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c760624d40000001</sys_recorded_at>
+        <sys_updated_by>Agent1</sys_updated_by>
+        <sys_updated_on>2023-12-17 04:26:03</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7f99c7132007351029c4aa1b0e8265e0</update_guid>
+        <update_guid_history>7f99c7132007351029c4aa1b0e8265e0:1436338196</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Crime Report">7fa90b1397073510e9d43f56f053affa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Agent1</sys_created_by>
+        <sys_created_on>2023-12-17 04:26:19</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>c65172a61b694c46bd1330760469ca71</sys_id>
+        <sys_metadata>bf99c71397073510e9d43f56f053afdd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Crime Report</sys_name>
+        <sys_package display_value="Threat Alert App" source="x_1152869_threat_0">3e1ed2d697833110e9d43f56f053af11</sys_package>
+        <sys_parent display_value="">229c76d397c33510e9d43f56f053af7f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Threat Alert App">3e1ed2d697833110e9d43f56f053af11</sys_scope>
+        <sys_scope_delete display_value="">01d73dac97f048c784652bc3fb20b5b1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_bf99c71397073510e9d43f56f053afdd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_bf99c71397073510e9d43f56f053afdd">fb99c71397073510e9d43f56f053afe1</sys_update_version>
+        <sys_updated_by>Agent1</sys_updated_by>
+        <sys_updated_on>2023-12-17 04:26:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
